@@ -2,6 +2,17 @@
 
 Full code completion for [pilot.lua](https://github.com/iimurpyh/pilot-lua/wiki/) using JohnnyMorganz' Luau Language Server.
 
+> [!WARNING]
+>
+> This repository is being discontinued (for the time being) in favor of Arvid's [pilot.lua types for luau-lsp](https://www.github.com/ArvidSilverlock/Pilot.lua-Luau-LSP). Features include:
+>
+> - In-editor descriptions for objects, methods, configurables and events.
+> - Strict typechecking for Configure and configurables in general.
+> - Parameter names for event connections
+> - ArvidSilverlock
+>
+> Make sure to star their repository if you find it helpful.
+
 ## Getting Started
 
 To get started, follow these simple steps:
